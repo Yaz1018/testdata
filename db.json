@@ -1,37 +1,504 @@
 {
-    "Products": [{
-            "_id": "1",
-            "productName": "Grilled Chicken",
-            "quantity": "543"
-        },
-        {
-            "_id": "2",
-            "productName": "Breaded Chicken",
-            "quantity": "1,024"
-        },
-        {
-            "_id": "3",
-            "productName": "Frozen Checken",
-            "quantity": "845"
-        },
-        {
-            "_id": "4",
-            "productName": "Meal Kit",
-            "quantity": "242"
-        }
-    ],
-    "KPI": [{
-            "inventoryTurnover": [{
-                "productId": "4",
-                "report": ".65"
-            }]
-        },
-        {
-            "receivingEfficiency": [{
-                "productId": "4",
-                "report": "88%"
-            }]
-        }
-
-    ]
+  "Votes": [
+    {
+      "_id": "5bf3653eb7e4b31b3a73f475",
+      "rating": 2,
+      "timestamp": 1518363211445
+    },
+    {
+      "_id": "5bf3653e7d84d34547ab603e",
+      "rating": 2,
+      "timestamp": 1530352752972
+    },
+    {
+      "_id": "5bf3653e50df2118e1ad41e8",
+      "rating": 2,
+      "timestamp": 1531038524257
+    },
+    {
+      "_id": "5bf3653e0fe7c653761de294",
+      "rating": 1,
+      "timestamp": 1523154462459
+    },
+    {
+      "_id": "5bf3653ee5fb1ba1fe597449",
+      "rating": 2,
+      "timestamp": 1527910006780
+    },
+    {
+      "_id": "5bf3653eee8a7c587be4446f",
+      "rating": 1,
+      "timestamp": 1533585377789
+    },
+    {
+      "_id": "5bf3653ed0e455af2f46a4d5",
+      "rating": 1,
+      "timestamp": 1542445890784
+    },
+    {
+      "_id": "5bf3653e28008799b32239be",
+      "rating": 1,
+      "timestamp": 1527517294412
+    },
+    {
+      "_id": "5bf3653e2e52e240da0a0c9e",
+      "rating": 2,
+      "timestamp": 1519882137250
+    },
+    {
+      "_id": "5bf3653eed39a547bc9b071f",
+      "rating": 2,
+      "timestamp": 1533432080380
+    },
+    {
+      "_id": "5bf3653e9f1c35cef5d3834e",
+      "rating": 2,
+      "timestamp": 1523128144678
+    },
+    {
+      "_id": "5bf3653e8b70e111e80e5c24",
+      "rating": 3,
+      "timestamp": 1526592697890
+    },
+    {
+      "_id": "5bf3653e9ca4365e90c8127b",
+      "rating": 2,
+      "timestamp": 1536246499659
+    },
+    {
+      "_id": "5bf3653ed6c0739f6f5bde71",
+      "rating": 1,
+      "timestamp": 1536094016050
+    },
+    {
+      "_id": "5bf3653e536f49661fe69adc",
+      "rating": 1,
+      "timestamp": 1523330844206
+    },
+    {
+      "_id": "5bf3653e00ccbbd67b6e10d5",
+      "rating": 1,
+      "timestamp": 1540736538320
+    },
+    {
+      "_id": "5bf3653e60511267c7bf39a1",
+      "rating": 3,
+      "timestamp": 1529393977434
+    },
+    {
+      "_id": "5bf3653ee3e03378fb60d29f",
+      "rating": 3,
+      "timestamp": 1535423647805
+    },
+    {
+      "_id": "5bf3653e4f861b618fcc2806",
+      "rating": 3,
+      "timestamp": 1533276185201
+    },
+    {
+      "_id": "5bf3653e1cdea01b340fa0c1",
+      "rating": 2,
+      "timestamp": 1541568458272
+    },
+    {
+      "_id": "5bf3653e8a8f6e3e2f06d3c5",
+      "rating": 3,
+      "timestamp": 1514979812206
+    },
+    {
+      "_id": "5bf3653e9da32726b600e645",
+      "rating": 1,
+      "timestamp": 1514945482068
+    },
+    {
+      "_id": "5bf3653e26cb2c77007a6368",
+      "rating": 2,
+      "timestamp": 1530160685451
+    },
+    {
+      "_id": "5bf3653ee29061b65c3c29d8",
+      "rating": 3,
+      "timestamp": 1516926686664
+    },
+    {
+      "_id": "5bf3653ed9371348293a1579",
+      "rating": 2,
+      "timestamp": 1517291903743
+    },
+    {
+      "_id": "5bf3653e83e3f3bc87008163",
+      "rating": 1,
+      "timestamp": 1535963250832
+    },
+    {
+      "_id": "5bf3653e30a7641e6bfeeab2",
+      "rating": 2,
+      "timestamp": 1526338879904
+    },
+    {
+      "_id": "5bf3653ec685b3d0e0324af1",
+      "rating": 3,
+      "timestamp": 1523563914888
+    },
+    {
+      "_id": "5bf3653ebae261cd501e7e3d",
+      "rating": 1,
+      "timestamp": 1523069792374
+    },
+    {
+      "_id": "5bf3653e3d8fc166eb5bff0a",
+      "rating": 1,
+      "timestamp": 1541259846446
+    },
+    {
+      "_id": "5bf3653e7598d2a5a592a239",
+      "rating": 1,
+      "timestamp": 1539090454198
+    },
+    {
+      "_id": "5bf3653e0f924af3bc332b5e",
+      "rating": 1,
+      "timestamp": 1535159813117
+    },
+    {
+      "_id": "5bf3653e0a46b661ad2bb83e",
+      "rating": 3,
+      "timestamp": 1538979262874
+    },
+    {
+      "_id": "5bf3653e7768bdd918c04986",
+      "rating": 2,
+      "timestamp": 1541977831648
+    },
+    {
+      "_id": "5bf3653e7de91372158357c8",
+      "rating": 1,
+      "timestamp": 1522969362917
+    },
+    {
+      "_id": "5bf3653e22575656128b6926",
+      "rating": 2,
+      "timestamp": 1529965394653
+    },
+    {
+      "_id": "5bf3653eea8089f5871b2400",
+      "rating": 3,
+      "timestamp": 1540128037536
+    },
+    {
+      "_id": "5bf3653e517cf0ce393cb763",
+      "rating": 1,
+      "timestamp": 1517279732189
+    },
+    {
+      "_id": "5bf3653e405546c4e1baf6e6",
+      "rating": 2,
+      "timestamp": 1537546571335
+    },
+    {
+      "_id": "5bf3653e59c95bf5501b9f97",
+      "rating": 1,
+      "timestamp": 1530010789863
+    },
+    {
+      "_id": "5bf3653ed20b3e957817479c",
+      "rating": 3,
+      "timestamp": 1536770240826
+    },
+    {
+      "_id": "5bf3653eaaff2b0b1a55674f",
+      "rating": 2,
+      "timestamp": 1522480997860
+    },
+    {
+      "_id": "5bf3653ee89ffe4d659f9ef0",
+      "rating": 1,
+      "timestamp": 1538238676609
+    },
+    {
+      "_id": "5bf3653ede4aa902ce7fdcff",
+      "rating": 1,
+      "timestamp": 1539463893878
+    },
+    {
+      "_id": "5bf3653e22b01661c93ed906",
+      "rating": 2,
+      "timestamp": 1524563772576
+    },
+    {
+      "_id": "5bf3653eb178061fb7cc28bf",
+      "rating": 3,
+      "timestamp": 1517187839931
+    },
+    {
+      "_id": "5bf3653e48539d9845a13cae",
+      "rating": 3,
+      "timestamp": 1531528068685
+    },
+    {
+      "_id": "5bf3653e7c1ca453fe50474d",
+      "rating": 3,
+      "timestamp": 1531737850184
+    },
+    {
+      "_id": "5bf3653ebbaeff4af45a1a4e",
+      "rating": 3,
+      "timestamp": 1517629843450
+    },
+    {
+      "_id": "5bf3653e3c5bad28363b3132",
+      "rating": 3,
+      "timestamp": 1529330889821
+    },
+    {
+      "_id": "5bf3653e5b2f72a68d546902",
+      "rating": 3,
+      "timestamp": 1520170980199
+    },
+    {
+      "_id": "5bf3653ec3766e1a7461123a",
+      "rating": 3,
+      "timestamp": 1524253608725
+    },
+    {
+      "_id": "5bf3653ef37380dc6d23faf9",
+      "rating": 2,
+      "timestamp": 1524231993855
+    },
+    {
+      "_id": "5bf3653e367db3dae78a0e32",
+      "rating": 1,
+      "timestamp": 1529198457967
+    },
+    {
+      "_id": "5bf3653ef5fda5e2f2f6aa93",
+      "rating": 2,
+      "timestamp": 1534052979054
+    },
+    {
+      "_id": "5bf3653eb62ca506c177f615",
+      "rating": 2,
+      "timestamp": 1536240168675
+    },
+    {
+      "_id": "5bf3653eadfbb1ff1aad1162",
+      "rating": 1,
+      "timestamp": 1520340755332
+    },
+    {
+      "_id": "5bf3653eadfbfa7ff8a5aa5f",
+      "rating": 3,
+      "timestamp": 1528521847393
+    },
+    {
+      "_id": "5bf3653e1b0928ef5708d8fe",
+      "rating": 1,
+      "timestamp": 1524040236596
+    },
+    {
+      "_id": "5bf3653e60b3c993b3a101f1",
+      "rating": 1,
+      "timestamp": 1524124650459
+    },
+    {
+      "_id": "5bf3653ef6f29d17d89b865a",
+      "rating": 3,
+      "timestamp": 1537874587211
+    },
+    {
+      "_id": "5bf3653ee35ffd6db0862794",
+      "rating": 1,
+      "timestamp": 1540480107689
+    },
+    {
+      "_id": "5bf3653efc757a837a8eeca0",
+      "rating": 3,
+      "timestamp": 1528944791746
+    },
+    {
+      "_id": "5bf3653ebe0fdba1e01ef030",
+      "rating": 2,
+      "timestamp": 1534945148271
+    },
+    {
+      "_id": "5bf3653eb767045c828fc95f",
+      "rating": 3,
+      "timestamp": 1537374836229
+    },
+    {
+      "_id": "5bf3653e42f88223b28964d2",
+      "rating": 1,
+      "timestamp": 1528067147810
+    },
+    {
+      "_id": "5bf3653eb49167295b6033ba",
+      "rating": 1,
+      "timestamp": 1528059409738
+    },
+    {
+      "_id": "5bf3653ecf4bc2dd501720f5",
+      "rating": 1,
+      "timestamp": 1529674214390
+    },
+    {
+      "_id": "5bf3653ec4eba07d50e73059",
+      "rating": 3,
+      "timestamp": 1532491101256
+    },
+    {
+      "_id": "5bf3653e27506e841c5a91db",
+      "rating": 3,
+      "timestamp": 1519518305168
+    },
+    {
+      "_id": "5bf3653ed031bc229b6e1106",
+      "rating": 2,
+      "timestamp": 1514943356895
+    },
+    {
+      "_id": "5bf3653e0678793e780026bc",
+      "rating": 3,
+      "timestamp": 1531456211068
+    },
+    {
+      "_id": "5bf3653eae2ce283fca3d08b",
+      "rating": 2,
+      "timestamp": 1529412438264
+    },
+    {
+      "_id": "5bf3653ed9548b9aefabede3",
+      "rating": 2,
+      "timestamp": 1532759679392
+    },
+    {
+      "_id": "5bf3653e5db3630c67389246",
+      "rating": 1,
+      "timestamp": 1534902668416
+    },
+    {
+      "_id": "5bf3653ecd0ed23ac0f70fe5",
+      "rating": 2,
+      "timestamp": 1534748225061
+    },
+    {
+      "_id": "5bf3653e7320baf59e210df2",
+      "rating": 3,
+      "timestamp": 1527495559536
+    },
+    {
+      "_id": "5bf3653eebe9f98405dd85eb",
+      "rating": 2,
+      "timestamp": 1518476153464
+    },
+    {
+      "_id": "5bf3653e05db5bb4d15c1186",
+      "rating": 3,
+      "timestamp": 1539477353374
+    },
+    {
+      "_id": "5bf3653e034397c9244f6e63",
+      "rating": 2,
+      "timestamp": 1520414475107
+    },
+    {
+      "_id": "5bf3653ef83329c3378fc1bf",
+      "rating": 2,
+      "timestamp": 1530986245757
+    },
+    {
+      "_id": "5bf3653e6ad36f87ade479b3",
+      "rating": 3,
+      "timestamp": 1541273560400
+    },
+    {
+      "_id": "5bf3653e8c9f9b4eeda7e826",
+      "rating": 3,
+      "timestamp": 1518232460342
+    },
+    {
+      "_id": "5bf3653eab9d6d61ab105ea5",
+      "rating": 2,
+      "timestamp": 1533676973855
+    },
+    {
+      "_id": "5bf3653e05d17f7d4c448373",
+      "rating": 2,
+      "timestamp": 1539597281739
+    },
+    {
+      "_id": "5bf3653e6f0e7b886c0e8999",
+      "rating": 1,
+      "timestamp": 1541403548632
+    },
+    {
+      "_id": "5bf3653ece572cb1c2e90ec2",
+      "rating": 3,
+      "timestamp": 1516246889894
+    },
+    {
+      "_id": "5bf3653e9f0b55bca294bbdf",
+      "rating": 2,
+      "timestamp": 1522971795809
+    },
+    {
+      "_id": "5bf3653eba856accd194bdb4",
+      "rating": 1,
+      "timestamp": 1521496124228
+    },
+    {
+      "_id": "5bf3653e72abc3ad3cff403e",
+      "rating": 3,
+      "timestamp": 1533016820726
+    },
+    {
+      "_id": "5bf3653e76a76c30e135ec70",
+      "rating": 2,
+      "timestamp": 1516648786218
+    },
+    {
+      "_id": "5bf3653ed1ca119e73e53f22",
+      "rating": 3,
+      "timestamp": 1519194651386
+    },
+    {
+      "_id": "5bf3653e7ab4af06eb7f4d93",
+      "rating": 3,
+      "timestamp": 1527366423880
+    },
+    {
+      "_id": "5bf3653e3cb306f03573938a",
+      "rating": 1,
+      "timestamp": 1515283767206
+    },
+    {
+      "_id": "5bf3653e12c6bfc4158bce57",
+      "rating": 1,
+      "timestamp": 1527607667103
+    },
+    {
+      "_id": "5bf3653e246ce701b0bc9b9e",
+      "rating": 1,
+      "timestamp": 1537355374998
+    },
+    {
+      "_id": "5bf3653e0fd95c842aa7a21a",
+      "rating": 2,
+      "timestamp": 1539639832099
+    },
+    {
+      "_id": "5bf3653ef382fc2ae5da8b02",
+      "rating": 2,
+      "timestamp": 1535525554255
+    },
+    {
+      "_id": "5bf3653eb8d12ee49463888a",
+      "rating": 2,
+      "timestamp": 1522221793785
+    },
+    {
+      "_id": "5bf3653e016003ab496b6b1f",
+      "rating": 1,
+      "timestamp": 1530290535061
+    }
+  ]
 }
