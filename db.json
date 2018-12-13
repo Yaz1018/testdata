@@ -6,56 +6,56 @@
     },
     {
         "_id": "5bf3653e9f1c35cef5d3834e",
-        "productName": "FHA 30 year ",
+        "productName": "FHA 15 year ",
         "productDocument": "https://fas.org/sgp/crs/misc/RS20530.pdf",
         "productThumbnail": "http://www.atlantagamortgages.com/wp-content/uploads/2009/06/fha.jpg"
     },
     {
         "_id": "5bf3653ebae261cd501e7e3d",
-        "productName": "FHA 30 year ",
+        "productName": "Fixed 30 year ",
         "productDocument": "https://fas.org/sgp/crs/misc/RS20530.pdf",
-        "productThumbnail": "http://www.atlantagamortgages.com/wp-content/uploads/2009/06/fha.jpg"
+        "productThumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsxoz2OYBPBkDPiviu-CKNnL_jA0ddneMUXtsp_BuiX7TzNHpM"
     },
     {
         "_id": "5bf3653ef37380dc6d23faf9",
-        "productName": "FHA 30 year ",
+        "productName": "Fixed 15 year ",
         "productDocument": "https://fas.org/sgp/crs/misc/RS20530.pdf",
-        "productThumbnail": "http://www.atlantagamortgages.com/wp-content/uploads/2009/06/fha.jpg"
+        "productThumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsxoz2OYBPBkDPiviu-CKNnL_jA0ddneMUXtsp_BuiX7TzNHpM"
     },
     {
         "_id": "5bf3713affea7538f5e43da6",
-        "productName": "FHA 30 year ",
+        "productName": "ARM 30 year ",
         "productDocument": "https://fas.org/sgp/crs/misc/RS20530.pdf",
-        "productThumbnail": "http://www.atlantagamortgages.com/wp-content/uploads/2009/06/fha.jpg"
+        "productThumbnail": "https://getarate.com/images/loandetail/adjustable.jpg"
     },
     {
         "_id": "5bf3713a4fdcdb7f9b8bd6dd",
-        "productName": "FHA 30 year ",
+        "productName": "ARM 15 year ",
         "productDocument": "https://fas.org/sgp/crs/misc/RS20530.pdf",
-        "productThumbnail": "http://www.atlantagamortgages.com/wp-content/uploads/2009/06/fha.jpg"
+        "productThumbnail": "https://getarate.com/images/loandetail/adjustable.jpg"
     },
     {
         "_id": "5bf3653e00ccbbd67b6e10d5",
-        "productName": "FHA 30 year ",
+        "productName": "VA Loan ",
         "productDocument": "https://fas.org/sgp/crs/misc/RS20530.pdf",
-        "productThumbnail": "http://www.atlantagamortgages.com/wp-content/uploads/2009/06/fha.jpg"
+        "productThumbnail": "https://s3-media4.fl.yelpcdn.com/bphoto/fTRzgBDGKS2RsTVFK_eAsg/258s.jpg"
     },
     {
         "_id": "5bf3653ed6c0739f6f5bde71",
-        "productName": "FHA 30 year ",
+        "productName": "PMI 30 year ",
         "productDocument": "https://fas.org/sgp/crs/misc/RS20530.pdf",
-        "productThumbnail": "http://www.atlantagamortgages.com/wp-content/uploads/2009/06/fha.jpg"
+        "productThumbnail": "http://www.pyramidsolutions.com/wp-content/uploads/2016/05/pmi-logo.jpg"
     },
     {
         "_id": "5bf3653e9ca4365e90c8127b",
-        "productName": "FHA 30 year ",
+        "productName": "PMI 15 year ",
         "productDocument": "https://fas.org/sgp/crs/misc/RS20530.pdf",
-        "productThumbnail": "http://www.atlantagamortgages.com/wp-content/uploads/2009/06/fha.jpg"
+        "productThumbnail": "http://www.pyramidsolutions.com/wp-content/uploads/2016/05/pmi-logo.jpg"
     },
     {
         "_id": "5bf3653e8b70e111e80e5c24",
-        "productName": "FHA 30 year ",
+        "productName": "USDA Rural Housing Loan ",
         "productDocument": "https://fas.org/sgp/crs/misc/RS20530.pdf",
-        "productThumbnail": "http://www.atlantagamortgages.com/wp-content/uploads/2009/06/fha.jpg"
+        "productThumbnail": "http://mediad.publicbroadcasting.net/p/wpr/files/styles/x_large/public/201504/USDA_logo.png"
     }
 ]
