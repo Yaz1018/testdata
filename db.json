@@ -2,60 +2,70 @@
     "Products": [{
             "_id": "5bf3653eb7e4b31b3a73f475",
             "productName": "FHA 30 year ",
+            "productDetails": "An FHA mortgage may require a down payment as low as 3.5 percent, although the interest rate may be somewhat higher than with a conventional mortgage",
             "productDocument": "https://fas.org/sgp/crs/misc/RS20530.pdf",
             "productThumbnail": "http://www.atlantagamortgages.com/wp-content/uploads/2009/06/fha.jpg"
         },
         {
             "_id": "5bf3653e9f1c35cef5d3834e",
             "productName": "FHA 15 year ",
+            "productDetails": "An FHA mortgage may require a down payment as low as 3.5 percent, although the interest rate may be somewhat higher than with a conventional mortgage",
             "productDocument": "https://fas.org/sgp/crs/misc/RS20530.pdf",
             "productThumbnail": "http://www.atlantagamortgages.com/wp-content/uploads/2009/06/fha.jpg"
         },
         {
             "_id": "5bf3653ebae261cd501e7e3d",
             "productName": "Fixed 30 year ",
+            "productDetails": "A 30-year fixed-rate mortgage is a home loan that has a fixed interest rate for a term of 30 years and a stable monthly principal and interest payment. With a fixed-rate mortgage, your monthly payment won’t change (outside of property taxes, homeowners insurance premiums or homeowners association fees).",
             "productDocument": "https://fas.org/sgp/crs/misc/RS20530.pdf",
             "productThumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsxoz2OYBPBkDPiviu-CKNnL_jA0ddneMUXtsp_BuiX7TzNHpM"
         },
         {
             "_id": "5bf3653ef37380dc6d23faf9",
             "productName": "Fixed 15 year ",
+            "productDetails": "A 15-year fixed-rate mortgage is a home loan that has a fixed interest rate for a term of 30 years and a stable monthly principal and interest payment. With a fixed-rate mortgage, your monthly payment won’t change (outside of property taxes, homeowners insurance premiums or homeowners association fees).",
             "productDocument": "https://fas.org/sgp/crs/misc/RS20530.pdf",
             "productThumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsxoz2OYBPBkDPiviu-CKNnL_jA0ddneMUXtsp_BuiX7TzNHpM"
         },
         {
             "_id": "5bf3713affea7538f5e43da6",
             "productName": "ARM 30 year ",
+            "productDetails": "A variable-rate mortgage, adjustable-rate mortgage (ARM), or tracker mortgage is a mortgage loan with the interest rate on the note periodically adjusted based on an index which reflects the cost to the lender of borrowing on the credit markets",
             "productDocument": "https://fas.org/sgp/crs/misc/RS20530.pdf",
             "productThumbnail": "https://getarate.com/images/loandetail/adjustable.jpg"
         },
         {
             "_id": "5bf3713a4fdcdb7f9b8bd6dd",
             "productName": "ARM 15 year ",
+            "productDetails": "A variable-rate mortgage, adjustable-rate mortgage (ARM), or tracker mortgage is a mortgage loan with the interest rate on the note periodically adjusted based on an index which reflects the cost to the lender of borrowing on the credit markets",
             "productDocument": "https://fas.org/sgp/crs/misc/RS20530.pdf",
             "productThumbnail": "https://getarate.com/images/loandetail/adjustable.jpg"
         },
         {
             "_id": "5bf3653e00ccbbd67b6e10d5",
             "productName": "VA Loan ",
+            "productDetails": "VA helps Servicemembers, Veterans, and eligible surviving spouses become homeowners.",
             "productDocument": "https://fas.org/sgp/crs/misc/RS20530.pdf",
             "productThumbnail": "https://s3-media4.fl.yelpcdn.com/bphoto/fTRzgBDGKS2RsTVFK_eAsg/258s.jpg"
         },
         {
             "_id": "5bf3653ed6c0739f6f5bde71",
             "productName": "PMI 30 year ",
+            "productDetails": "PMI is a layer of protection for lenders, but an added expense for borrowers. Conventional loans are the most popular type of mortgages, but they’re also the one that isn’t insured by the government.",
             "productDocument": "https://fas.org/sgp/crs/misc/RS20530.pdf",
             "productThumbnail": "http://www.pyramidsolutions.com/wp-content/uploads/2016/05/pmi-logo.jpg"
         },
         {
             "_id": "5bf3653e9ca4365e90c8127b",
             "productName": "PMI 15 year ",
+            "productDetails": "PMI is a layer of protection for lenders, but an added expense for borrowers. Conventional loans are the most popular type of mortgages, but they’re also the one that isn’t insured by the government.",
             "productDocument": "https://fas.org/sgp/crs/misc/RS20530.pdf",
             "productThumbnail": "http://www.pyramidsolutions.com/wp-content/uploads/2016/05/pmi-logo.jpg"
         },
         {
             "_id": "5bf3653e8b70e111e80e5c24",
             "productName": "USDA Rural Housing Loan ",
+            "productDetails": "This program assists approved lenders in providing low- and moderate-income households the opportunity to own adequate, modest, decent, safe and sanitary dwellings as their primary residence in eligible rural areas.",
             "productDocument": "https://fas.org/sgp/crs/misc/RS20530.pdf",
             "productThumbnail": "http://mediad.publicbroadcasting.net/p/wpr/files/styles/x_large/public/201504/USDA_logo.png"
         }
