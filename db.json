@@ -4,14 +4,14 @@
             "productName": "FHA 30 year ",
             "productDetails": "An FHA mortgage may require a down payment as low as 3.5 percent, although the interest rate may be somewhat higher than with a conventional mortgage",
             "productDocument": "https://fas.org/sgp/crs/misc/RS20530.pdf",
-            "productThumbnail": "http://www.atlantagamortgages.com/wp-content/uploads/2009/06/fha.jpg"
+            "productThumbnail": "https://www.atlantagamortgages.com/wp-content/uploads/2009/06/fha.jpg"
         },
         {
             "_id": "5bf3653e9f1c35cef5d3834e",
             "productName": "FHA 15 year ",
             "productDetails": "An FHA mortgage may require a down payment as low as 3.5 percent, although the interest rate may be somewhat higher than with a conventional mortgage",
             "productDocument": "https://fas.org/sgp/crs/misc/RS20530.pdf",
-            "productThumbnail": "http://www.atlantagamortgages.com/wp-content/uploads/2009/06/fha.jpg"
+            "productThumbnail": "https://www.atlantagamortgages.com/wp-content/uploads/2009/06/fha.jpg"
         },
         {
             "_id": "5bf3653ebae261cd501e7e3d",
@@ -53,21 +53,21 @@
             "productName": "PMI 30 year ",
             "productDetails": "PMI is a layer of protection for lenders, but an added expense for borrowers. Conventional loans are the most popular type of mortgages, but they’re also the one that isn’t insured by the government.",
             "productDocument": "https://fas.org/sgp/crs/misc/RS20530.pdf",
-            "productThumbnail": "http://www.pyramidsolutions.com/wp-content/uploads/2016/05/pmi-logo.jpg"
+            "productThumbnail": "https://www.pyramidsolutions.com/wp-content/uploads/2016/05/pmi-logo.jpg"
         },
         {
             "_id": "5bf3653e9ca4365e90c8127b",
             "productName": "PMI 15 year ",
             "productDetails": "PMI is a layer of protection for lenders, but an added expense for borrowers. Conventional loans are the most popular type of mortgages, but they’re also the one that isn’t insured by the government.",
             "productDocument": "https://fas.org/sgp/crs/misc/RS20530.pdf",
-            "productThumbnail": "http://www.pyramidsolutions.com/wp-content/uploads/2016/05/pmi-logo.jpg"
+            "productThumbnail": "https://www.pyramidsolutions.com/wp-content/uploads/2016/05/pmi-logo.jpg"
         },
         {
             "_id": "5bf3653e8b70e111e80e5c24",
             "productName": "USDA Rural Housing Loan ",
             "productDetails": "This program assists approved lenders in providing low- and moderate-income households the opportunity to own adequate, modest, decent, safe and sanitary dwellings as their primary residence in eligible rural areas.",
             "productDocument": "https://fas.org/sgp/crs/misc/RS20530.pdf",
-            "productThumbnail": "http://mediad.publicbroadcasting.net/p/wpr/files/styles/x_large/public/201504/USDA_logo.png"
+            "productThumbnail": "https://mediad.publicbroadcasting.net/p/wpr/files/styles/x_large/public/201504/USDA_logo.png"
         }
     ]
 }
