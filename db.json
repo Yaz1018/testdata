@@ -77,13 +77,42 @@
             ]
         }
     ],
-    "tracking": [
+    "whitepapers": [
         {
-            "_id":"5cfecf7b8441950385169894",
-            "eta":"7/01/2019",
-            "ShippingAddress":"1381 Saint-Catherine St W, Montreal, QC H3G 1R1",
-            "trackingNum":"543GT877721"
+            "_id": "1",
+            "_filename": "WP_IOT_Solutions_150821.pdf",
+            "mimeType": "application/pdf",
+            "prettyname": " Capitalize on the IoT Transformation",
+            "_downloadURL": "https://img03.en25.com/Web/SierraWirelessInc/%7B1ac89924-4e83-4b2c-a38b-aab5fbc7aae9%7D_WP_IOT_Solutions_150821.pdf"
+        },
+        {
+            "_id": "2",
+            "_filename": "WP-Commercial_Washing_Machines-190506B.pdf",
+            "mimeType": "application/pdf",
+            "prettyname": "The Power of Data Orchestration for Commercial Washing Machines",
+            "_downloadURL": "https://img03.en25.com/Web/SierraWirelessInc/%7B921116a2-179c-429c-9c53-2a6649800406%7D_WP-Commercial_Washing_Machines-190506B.pdf"
+        },
+        {
+            "_id": "3",
+            "_filename": "WP-MCS_SDWAN_190409.pdf",
+            "mimeType": "application/pdf",
+            "prettyname": "How SD-WAN Simplifies Cloud-Based Connectivity ",
+            "_downloadURL": "https://img03.en25.com/Web/SierraWirelessInc/%7B9d4a7a45-535e-40bb-aed9-3102c00fc26a%7D_WP-MCS_SDWAN_190409.pdf"
+        },
+        {
+            "_id": "4",
+            "_filename": "WP-How_Utility_Companies_Can_Reduce_Operating_Costs-4.pdf",
+            "mimeType": "application/pdf",
+            "prettyname": "How Utility Companies Can Reduce Operating Costs With Vehicle Area Networks",
+            "_downloadURL": "https://img03.en25.com/Web/SierraWirelessInc/%7B5ff53546-6e27-43cf-8b63-2f1f328a3b1e%7D_2019.04.01_WP-How_Utility_Companies_Can_Reduce_Operating_Costs-4.pdf"
+        },
+        {
+            "_id": "5",
+            "_filename": "WP_How_to_Get_IoT_Connectivity_Right_190213.pdf",
+            "mimeType": "application/pdf",
+            "prettyname": "How to Get IoT Connectivity Right",
+            "_downloadURL": "https://img03.en25.com/Web/SierraWirelessInc/%7Ba289aa91-414f-4a23-9b06-a273da224501%7D_WP_How_to_Get_IoT_Connectivity_Right_190213.pdf"
         }
-    ]
+    ]	    
     
 }
