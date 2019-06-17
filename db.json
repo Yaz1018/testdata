@@ -83,28 +83,28 @@
             "Wieght": "120",
             "HeartRate": "65",
             "OxygenSat": "97",
-            "timestamp": "6/16/2019"
+            "date": "6/16/2019"
         },
         {
             "_id": "5d079539d8369d2dbb0338da",
             "Wieght": "118",
             "HeartRate": "85",
             "OxygenSat": "98",
-            "timestamp": "6/15/2019"
+            "date": "6/15/2019"
         },
         {
             "_id": "5d079567d8369d2dbb033b1a",
             "Wieght": "119",
             "HeartRate": "75",
             "OxygenSat": "99",
-            "timestamp": "6/14/2019"
+            "date": "6/14/2019"
         },
         {
             "_id": "5d07a9f9ceecea0b34cc308c",
             "Wieght": "121",
             "HeartRate": "98",
             "OxygenSat": "99",
-            "timestamp": "6/13/2019"
+            "date": "6/13/2019"
         }
     ]  
     
