@@ -77,42 +77,36 @@
             ]
         }
     ],
-    "certifications": [
+
+
+    "employees": [
         {
-            "_id":"17435c59-29ce-4ad1-a031-841208f4c2ee",
-            "mimeType":"image/png",
-            "employee":"5d288e7b1b953833e830b715",
-            "empName":"Jim Grady",
-            "approved":false,
-            "_filename":"ISO9001Certification.png",
-            "img":"https://www.agscientific.com/media/wysiwyg/ISO_CERTIFICATE_2017.png"
+            "empName": "John Smith",
+            "_id":"5d2760e0f7aa7832c2289691",
+            "jobType":"technicalStaff",
+            "email":"jsmith@faa.gov",
+            "empID":"1234"
         },
         {
-            "_id":"17435c59-29ce-4ad1-a031-841208f4c2ee",
-            "mimeType":"image/png",
-            "employee":"5d288e7b1b953833e830b715",
-            "empName":"Amy Keng",
-            "approved":false,
-            "_filename":"SBA8(a)Certification.png",
-            "img": "https://prominentedge.com/img/post/news-sba-8a-certification-thumbnail.png"
+            "empName": "Mark Antony",
+            "_id":"5d2760e0f7aa7832c2289691",
+            "jobType":"technicalStaff",
+            "email":"mantony@faa.gov",
+            "empID":"1237"
         },
         {
-            "_id":"17435c59-29ce-4ad1-a031-841208f4c2ee",
-            "mimeType":"image/png",
-            "employee":"5d288e7b1b953833e830b715",
-            "empName":"John Smith",
-            "approved":false,
-            "_filename":"NSCAPCertification.png",
-            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ92NtFIfP0SRrMkjtV17xeoiFs31j0mWOpJ7wIvrqkNCwKsvd"
+            "empName": "Bryan Velt",
+            "_id":"5d2760e0f7aa7832c2289691",
+            "jobType":"technicalStaff",
+            "email":"bvelt@faa.gov",
+            "empID":"1236"
         },
         {
-            "_id":"17435c59-29ce-4ad1-a031-841208f4c2ee",
-            "mimeType":"image/png",
-            "employee":"5d288e7b1b953833e830b715",
-            "empName":"Fran Grensch",
-            "approved":false,
-            "_filename":"GSACertification.png",
-            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIo7fMRvgsBen_3xcO2ZJWiO_1G2E8lN2KySMw160yMOAVZx1k"
+            "empName": "Gerry Powerman",
+            "_id":"5d2760e0f7aa7832c2289691",
+            "jobType":"technicalStaff",
+            "email":"gpowerman@faa.gov",
+            "empID":"1235"
         }
     ]
     
